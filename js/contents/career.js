@@ -103,7 +103,7 @@ const career={
     skill : "Conference Organization",
     level :"100%"
   },{
-    skill : "javascript",
+    skill : "Organization Development",
     level :"80%"
   }]
 }
