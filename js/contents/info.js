@@ -20,6 +20,6 @@ const userinfo={
      during : "1998-2007"
   }],
   languages : [{lang:"Korean",fluency:"Native"},{lang:"English",fluency:"Professional"},{lang:"Japanese/Mandarin Chinese",fluency:"Conversational"}],
-  interests :["Innovation","Agile","Social Impact"]
+  interests :["Innovation","Agile","Play","Social Impact"]
 }
 module.exports= userinfo;
